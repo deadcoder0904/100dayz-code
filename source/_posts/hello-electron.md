@@ -1,5 +1,5 @@
 ---
-title: hello-electron
+title: Hello Electron
 date: 2016-11-02
 ---
 
