@@ -1,0 +1,92 @@
+[
+  {
+     "name":"Chatroom",
+     "url":"https://github.com/deadcoder0904/chatroom/",
+     "desc":"Public Chatroom Made Using Node JS and Socket.io"
+  },
+  {
+     "name":"Email-Via-Gmail",
+     "url":"https://github.com/deadcoder0904/email-via-gmail",
+     "desc":"A simple npm module to send Email via Gmail"
+  },
+  {
+     "name":"Redux Bank",
+     "url":"https://github.com/deadcoder0904/react-redux-webpack-bankapp",
+     "desc":"Bank Application made using React & Redux"
+  },
+  {
+     "name":"Simon Says",
+     "url":"https://github.com/deadcoder0904/simon-says/",
+     "desc":"Simon Game made using HTML,SASS & jQuery"
+  },
+  {
+     "name":"URL Shortener",
+     "url":"https://github.com/deadcoder0904/url-shortener/",
+     "desc":"Shorten long URL"
+  },
+  {
+     "name":"Tic Tac Toe",
+     "url":"https://github.com/deadcoder0904/tic-tac-toe/",
+     "desc":"Tic Tac Toe made using HTML, SASS, jQuery"
+  },
+  {
+     "name":"React Markdown Previewer",
+     "url":"https://github.com/deadcoder0904/react-markdown-previewer/",
+     "desc":"Preview your Markdown in Real Time"
+  },
+  {
+     "name":"Pomodoro Clock",
+     "url":"https://github.com/deadcoder0904/pomodoro-clock/",
+     "desc":"Tomato Timer using HTML,CSS, jQuery & WaterBubble.js"
+  },
+  {
+     "name":"Image Search",
+     "url":"https://github.com/deadcoder0904/image-search/",
+     "desc":"Image Search using Bing API"
+  },
+  {
+     "name":"Timestamp Microservice",
+     "url":"https://github.com/deadcoder0904/timestamp-microservice/",
+     "desc":"Microservice providing to parse Time inreadable format by Humans"
+  },
+  {
+     "name":"Twitch Streamers",
+     "url":"https://github.com/deadcoder0904/twitch-streamers/",
+     "desc":"Simple App made using Twitch TV API"
+  },
+  {
+     "name":"Hackers Text",
+     "url":"https://github.com/deadcoder0904/hackers-text/",
+     "desc":"Encode or Decode text like H4CK3R5"
+  },
+  {
+     "name":"Wikipedia Viewer",
+     "url":"https://github.com/deadcoder0904/wiki-viewer/",
+     "desc":"View 10 Wikipedia Articles related to the search term"
+  },
+  {
+     "name":"Weather by IP Address",
+     "url":"https://github.com/deadcoder0904/simple-weather-info-from-ip/",
+     "desc":"Simple Weather Info From IP Address"
+  },
+  {
+     "name":"Random Quote Generator",
+     "url":"https://github.com/deadcoder0904/random-quote-generator/",
+     "desc":"Generate Random Famous Quotes"
+  },
+  {
+     "name":"Reusable Sidebar Component",
+     "url":"https://github.com/deadcoder0904/react-bootstrap-sidebar/",
+     "desc":"Simple Reusable React + Bootstrap Sidebar"
+  },
+  {
+     "name":"Reusable Navbar Component",
+     "url":"https://github.com/deadcoder0904/react-bootstrap-navbar/",
+     "desc":"Simple Reusable React + Bootstrap Navbar"
+  },
+  {
+     "name":"Todo API",
+     "url":"https://github.com/deadcoder0904/todo-api/",
+     "desc":"My first ever TODO REST API"
+  }
+]
