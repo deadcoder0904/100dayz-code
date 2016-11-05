@@ -16,10 +16,10 @@ timezone:
 # root: /100dayz/
 # url: https://100dayz.js.org
 # root: /
-# url: https://blog-0904.herokuapp.com/
-# root: /
-url: http://akshaykadam.me/
-root: /100dayz-code/
+url: https://blog-0904.herokuapp.com/
+root: /
+# url: http://akshaykadam.me/
+# root: /100dayz-code/
 
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -75,7 +75,3 @@ theme: cactus-dark
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: git
-  repo: git@github.com:deadcoder0904/100dayz-code.git
-  branch: gh-pages
