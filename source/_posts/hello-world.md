@@ -68,6 +68,6 @@ More info: [Deployment](https://hexo.io/docs/deployment.html)
 
 # Automated Deployment Script 
 
-I've made a simple Bash Script to generate the uncompiled & compiled version of the Hexo Blog & to push it on Github Pages. The script can be found [here](https://github.com/deadcoder0904/100dayz-code/blob/master/runHexoAndPush2Github.sh)
+I've made a simple Bash Script to generate the uncompiled & compiled version of the Hexo Blog & to push it on Github Pages. The script can be found [here](https://github.com/deadcoder0904/personal-bash-scripts/blob/master/runHexoAndPush2Github.sh)
 
 ### Till the next time 👻
