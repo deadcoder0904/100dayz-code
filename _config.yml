@@ -20,6 +20,8 @@ url: https://blog-0904.herokuapp.com/
 root: /
 # url: http://akshaykadam.me/
 # root: /100dayz-code/
+# url: http://akshaykadam.me/
+# root: /test/
 
 permalink: :year/:month/:day/:title/
 permalink_defaults:
