@@ -12,16 +12,12 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-# url: http://akshaykadam.me/
-# root: /100dayz/
+url: http://akshaykadam.me/
+root: /100dayz/
 # url: https://100dayz.js.org
 # root: /
 # url: https://blog-0904.herokuapp.com/
 # root: /
-# url: http://akshaykadam.me/
-# root: /100dayz-code/
-url: http://akshaykadam.me/
-root: /test/
 
 permalink: :year/:month/:day/:title/
 permalink_defaults:
