@@ -29,13 +29,11 @@ $ git clone git@github.com:deadcoder0904/hello-electron.git
 
 # (2) Go into the directory
 
-
 {% vimhl bash true %}
 $ cd hello-electron
 {% endvimhl %}
 
 # (3) Install all the Dependencies
-
 
 {% vimhl bash true %}
 $ yarn
@@ -43,9 +41,8 @@ $ yarn
 
 # (4) Start the Application
 
-
 {% vimhl bash true %}
-$ npm start
+$ yarn start
 {% endvimhl %}
 
 ### Till the next time 👻
