@@ -40,7 +40,6 @@ console.log(obj);
 
 
 {% vimhl bash true %}
-
 $ npm install --save random-github-emoji
 
 {% endvimhl %}
@@ -49,7 +48,6 @@ $ npm install --save random-github-emoji
 
 
 {% vimhl js true %}
-
 const random = require('random-github-emoji');
 
 random();
