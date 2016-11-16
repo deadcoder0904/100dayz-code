@@ -1,0 +1,17 @@
+<font face="monospace"><span id="L1"><font color="#d5e617">&#xA0;1&#xA0;</font></span><font color="#0edbcb">var</font>&#xA0;jsonContent = require(<font color="#c00000">&quot;./random.json&quot;</font>);
+<span id="L2"><font color="#d5e617">&#xA0;2&#xA0;</font></span>
+<span id="L3"><font color="#d5e617">&#xA0;3&#xA0;</font></span><font color="#0edbcb">var</font>&#xA0;arr =&#xA0;<font color="#0edbcb">[]</font>;
+<span id="L4"><font color="#d5e617">&#xA0;4&#xA0;</font></span>
+<span id="L5"><font color="#d5e617">&#xA0;5&#xA0;</font></span><font color="#d5e617">for</font>(<font color="#0edbcb">var</font>&#xA0;keys&#xA0;<font color="#d5e617">in</font>&#xA0;jsonContent)&#xA0;<font color="#0edbcb">{</font>
+<span id="L6"><font color="#d5e617">&#xA0;6&#xA0;</font></span>&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;arr.push(keys);
+<span id="L7"><font color="#d5e617">&#xA0;7&#xA0;</font></span><font color="#0edbcb">}</font>&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;
+<span id="L8"><font color="#d5e617">&#xA0;8&#xA0;</font></span>
+<span id="L9"><font color="#d5e617">&#xA0;9&#xA0;</font></span><font color="#0edbcb">var</font>&#xA0;n = Math.floor(Math.random()&#xA0;* arr.length);
+<span id="L10"><font color="#d5e617">10&#xA0;</font></span>
+<span id="L11"><font color="#d5e617">11&#xA0;</font></span><font color="#0edbcb">var</font>&#xA0;obj =&#xA0;<font color="#0edbcb">{</font>
+<span id="L12"><font color="#d5e617">12&#xA0;</font></span>&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;name: arr<font color="#0edbcb">[</font>n<font color="#0edbcb">]</font>,
+<span id="L13"><font color="#d5e617">13&#xA0;</font></span>&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;emoji: jsonContent<font color="#0edbcb">[</font>arr<font color="#0edbcb">[</font>n<font color="#0edbcb">]]</font>
+<span id="L14"><font color="#d5e617">14&#xA0;</font></span><font color="#0edbcb">}</font>;
+<span id="L15"><font color="#d5e617">15&#xA0;</font></span>
+<span id="L16"><font color="#d5e617">16&#xA0;</font></span>console.log(obj);
+</font>
