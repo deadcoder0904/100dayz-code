@@ -43,6 +43,14 @@ $ rm -rf MyApp-linux-x64/resources/app
 
 [Final Application Here](https://github.com/deadcoder0904/electron-md-preview)
 
+# NOTE - If u want to Package Application to Windows
+
+{% vimhl bash true %}
+$ electron-packager . MD-PREVIEW --platform=win32 --arch=x64 --version=1.4.7
+{% endvimhl %}
+
+### Sometimes it gives EACCES error, so for a workaround download Electron Version 1.4.7 from the official website & copy the `.zip` file & paste it into `~/.electron` directory & it'll work like a charm.
+
 ### External Resources
 
 [Packaging and Distributing Electron Desktop Apps](https://www.youtube.com/watch?v=dz5SnmBzBXc)
