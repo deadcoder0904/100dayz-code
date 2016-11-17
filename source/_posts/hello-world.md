@@ -28,7 +28,7 @@ and
 I didn't use Jekyll because I've used it on other site running over [here](https://deadcoder0904.github.io/).
 
 Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or 
-you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+you can ask the author's on [GitHub](https://github.com/hexojs/hexo/issues).
 
 I've used [CactusDark theme](https://github.com/probberechts/cactus-dark/) in Hexo.
 
