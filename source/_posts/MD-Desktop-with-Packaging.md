@@ -43,7 +43,7 @@ $ rm -rf MyApp-linux-x64/resources/app
 
 [Final Application Here](https://github.com/deadcoder0904/electron-md-preview)
 
-## Note : If u want to Package Application to Windows
+## Note : If u want to Package Application to Windows, copy & paste the below code & follow from `step 2`
 
 {% vimhl bash true %}
 $ electron-packager . MD-PREVIEW --platform=win32 --arch=x64 --version=1.4.7
