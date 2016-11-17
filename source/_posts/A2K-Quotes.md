@@ -13,7 +13,7 @@ date: 2016-11-08
 
 #### If u find an awesome Quote, send me a pull request [here](https://github.com/deadcoder0904/a2k-quotes)
 
-> Awesome Curated Quotes by A2K
+> [Awesome Curated Quotes by A2K](https://deadcoder0904.github.io/a2k-quotes/)
 
 # Screenshots
 
