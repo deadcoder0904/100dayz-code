@@ -5,6 +5,21 @@
      "desc":"Public Chatroom Made Using Node JS and Socket.io"
   },
   {
+     "name":"Github Public Gists",
+     "url":"https://github.com/deadcoder0904/github-user-public-gists/",
+     "desc":"Public Gists of any Github User"
+  },
+  {
+     "name":"Github Emoji List",
+     "url":"https://github.com/deadcoder0904/github-emoji-lists/",
+     "desc":"List of Emoji's Supported by Github"
+  },
+  {
+     "name":"Random Github Emoji Generator",
+     "url":"https://github.com/deadcoder0904/random-github-emoji",
+     "desc":"A simple npm module to generate a Random Github Emoji every single time"
+  },
+  {
      "name":"Email-Via-Gmail",
      "url":"https://github.com/deadcoder0904/email-via-gmail",
      "desc":"A simple npm module to send Email via Gmail"
