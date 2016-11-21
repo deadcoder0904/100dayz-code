@@ -16,8 +16,7 @@ It gives repo name & the link to the repo.
 
 ## The API is in the following format
 
-{% vimhl json true %}
-
+{% vimhl js true %}
 {
   "description": [
     "List of Computer Science courses with video lectures.",
