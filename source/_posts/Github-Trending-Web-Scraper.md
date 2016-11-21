@@ -127,8 +127,8 @@ $ yarn start
 
 ### In a minutes time, depending on the speed of your internet, a new file will be created according to today's date in `json` folder.
 
-## Hurray, we have scraped the web together. It has many more applications further. We can login to Facebook & Twitter using Nightmare. We can send Automated Emails using Nightmare & many more things....
+## Voila, we have scraped the web together. It has many more applications further. We can login to Facebook & Twitter using Nightmare. We can send Automated Emails using Nightmare & many more things....
 
-###### :warning: Warning : It scrapes the [Github Trending Site](https://github.com/trending) which means that if the sites layout changes this project won't work
+###### ⚠ Warning : It scrapes the [Github Trending Site](https://github.com/trending) which means that if the sites layout changes this project won't work
 
 ### Till the next time 👻
