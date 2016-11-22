@@ -60,6 +60,6 @@ print "Copied all files to 'sorted' directory"
 
 {% endvimhl %}
 
-# I wish I would've done this before as it would've helped me in my Previous Semesters. Hope it helps u as well.
+# I wish I would've done this before as it would've helped me in my Previous Semesters. Hope it helps u.
 
 ### Till the next time 👻
