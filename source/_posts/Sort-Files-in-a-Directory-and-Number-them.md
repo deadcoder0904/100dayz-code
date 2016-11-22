@@ -7,7 +7,7 @@ date: 2016-11-10
 
 ### I'm back 💙
 
-#### Exam days are beginning & I don't have a hard copy to read from & ebooks for Digital Signal Processing (DSP) suck, atleast those I have. So, today I clicked some pics in my phone & as per the naming convention of my phone they are long strings like `IMG_20164144090.jpg` & so on... Now I want to sort them all & number them so that final result is `1.jpg`. I have 2 languages for automating this task `BASH` & `PYTHON`. I'll go with `PYTHON` as this usecase is more suitable for it.
+#### Exam days are ahead of me & I don't have a hard copy to read from & ebooks for Digital Signal Processing (DSP) suck, atleast those I have. So, today I clicked some pics in my phone & as per the naming convention of my phone they are long strings like `IMG_20164144090.jpg` & so on... Now I want to sort them all & number them so that final result is `1.jpg`. I have 2 languages for automating this task `BASH` & `PYTHON`. I'll go with `PYTHON` as this usecase is more suitable for it.
 
 ### Here's the final [Python Script](https://github.com/deadcoder0904/personal-bash-scripts/blob/master/sortAndOrderFiles.py) 
 
@@ -60,6 +60,6 @@ print "Copied all files to 'sorted' directory"
 
 {% endvimhl %}
 
-# I wish I would've done this before as it would've helped me in my Previous Semesters
+# I wish I would've done this before as it would've helped me in my Previous Semesters. Hope it helps u as well.
 
 ### Till the next time 👻
