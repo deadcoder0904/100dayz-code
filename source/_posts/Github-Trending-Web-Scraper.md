@@ -17,83 +17,133 @@ It gives repo description & the link to the repo.
 ## The API is in the following format
 
 {% vimhl js true %}
-{
-  "0": {
-    "https://github.com/Developer-Y/cs-video-courses": "List of Computer Science courses with video lectures."
+{ 
+  {
+    "name": "cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "description": "List of Computer Science courses with video lectures."
   },
-  "1": {
-    "https://github.com/googlesamples/md2googleslides": "Generate Google Slides from markdown"
+  {
+    "name": "Keyframes",
+    "url": "https://github.com/facebookincubator/Keyframes",
+    "description": "A library for converting Adobe AE shape based animations to a data format and play it back on Android and iOS devices."
   },
-  "2": {
-    "https://github.com/FreeCodeCamp/FreeCodeCamp": "The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits."
+  {
+    "name": "pipfile",
+    "url": "https://github.com/pypa/pipfile",
+    "description": "Description Not Provided"
   },
-  "3": {
-    "https://github.com/andrew--r/channels": "A collection of useful YouTube channels for javascript developers and web designers"
+  {
+    "name": "md2googleslides",
+    "url": "https://github.com/googlesamples/md2googleslides",
+    "description": "Generate Google Slides from markdown"
   },
-  "4": {
-    "https://github.com/ruanyf/jstraining": "全栈工程师培训材料"
+  {
+    "name": "easy-application",
+    "url": "https://github.com/j-delaney/easy-application",
+    "description": "351 software engineering companies that are easy to apply to"
   },
-  "5": {
-    "https://github.com/samyk/poisontap": "Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js."
+  {
+    "name": "pix2pix",
+    "url": "https://github.com/phillipi/pix2pix",
+    "description": "Image-to-image translation using conditional adversarial nets"
   },
-  "6": {
-    "https://github.com/developer-shivam/Crescento": "Add curve at bottom of image views and relative layouts."
+  {
+    "name": "FreeCodeCamp",
+    "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+    "description": "The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits."
   },
-  "7": {
-    "https://github.com/jaywcjlove/awesome-mac": " This repo is a collection of awesome Mac applications and tools for developers and designers."
+  {
+    "name": "channels",
+    "url": "https://github.com/andrew--r/channels",
+    "description": "A collection of useful YouTube channels for javascript developers and web designers"
   },
-  "8": {
-    "https://github.com/j-delaney/easy-application": "345 software engineering companies that are easy to apply to"
+  {
+    "name": "react-draft-wysiwyg",
+    "url": "https://github.com/jpuri/react-draft-wysiwyg",
+    "description": "A Wysiwyg editor build on top of ReactJS and DraftJS. https://jpuri.github.io/react-draft-wysiwyg"
   },
-  "9": {
-    "https://github.com/RiccardoMoro/RMSwitch": "A simple and customizable two or three states Switch View"
+  {
+    "name": "katana-swift",
+    "url": "https://github.com/BendingSpoons/katana-swift",
+    "description": "Swift Apps in a Swoosh! A modern framework for creating iOS apps, inspired by React/Redux."
   },
-  "10": {
-    "https://github.com/JohnSundell/SwiftPlate": "Easily generate cross platform Swift framework projects from the command line"
+  {
+    "name": "BeeHive",
+    "url": "https://github.com/alibaba/BeeHive",
+    "description": " BeeHive is a solution for iOS Application module programs, it absorbed the Spring Framework API service concept to avoid to coupling between modules."
   },
-  "11": {
-    "https://github.com/codeestX/ENViews": "A cool dynamic view library"
+  {
+    "name": "ArcLayout",
+    "url": "https://github.com/florent37/ArcLayout",
+    "description": "With Arc Layout explore new styles and approaches on material design"
   },
-  "12": {
-    "https://github.com/ShapeLab/SwarmUI": ""
+  {
+    "name": "jstraining",
+    "url": "https://github.com/ruanyf/jstraining",
+    "description": "全栈工程师培训材料"
   },
-  "13": {
-    "https://github.com/Hack-with-Github/Awesome-Hacking": "A collection of various awesome lists for hackers, pentesters and security researchers"
+  {
+    "name": "faust",
+    "url": "https://github.com/grame-cncm/faust",
+    "description": "Description Not Provided"
   },
-  "14": {
-    "https://github.com/rushter/MLAlgorithms": "Minimal and clean examples of machine learning algorithms"
+  {
+    "name": "go-audit",
+    "url": "https://github.com/slackhq/go-audit",
+    "description": "go-audit is an alternative to the auditd daemon that ships with many distros"
   },
-  "15": {
-    "https://github.com/ryanjay0/miles-deep": "Deep Learning Porn Video Classifier/Editor with Caffe"
+  {
+    "name": "awesome-mac",
+    "url": "https://github.com/jaywcjlove/awesome-mac",
+    "description": " This repo is a collection of awesome Mac applications and tools for developers and designers."
   },
-  "16": {
-    "https://github.com/Kapeli/Dash-iOS": "Dash gives your iPad and iPhone instant offline access to 150+ API documentation sets"
+  {
+    "name": "ENViews",
+    "url": "https://github.com/codeestX/ENViews",
+    "description": "A cool dynamic view library"
   },
-  "17": {
-    "https://github.com/arikis/Overdrive": " Fast async task based Swift framework with focus on type safety, concurrency and multi threading"
+  {
+    "name": "Diff.swift",
+    "url": "https://github.com/wokalski/Diff.swift",
+    "description": "The fastest Diff and patch library in Swift. Includes UICollectionView/UITableView utils."
   },
-  "18": {
-    "https://github.com/i-break-codes/scrum-board": "JavaScript Scrum App to manage tasks with ease"
+  {
+    "name": "poisontap",
+    "url": "https://github.com/samyk/poisontap",
+    "description": "Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js."
   },
-  "19": {
-    "https://github.com/nuxt/nuxt.js": "A minimalistic framework for server-rendered Vue.js applications (inspired by Next.js)"
+  {
+    "name": "vue",
+    "url": "https://github.com/vuejs/vue",
+    "description": "Simple yet powerful library for building modern web interfaces."
   },
-  "20": {
-    "https://github.com/pypa/pipfile": ""
+  {
+    "name": "Eve",
+    "url": "https://github.com/witheve/Eve",
+    "description": "Better tools for thought"
   },
-  "21": {
-    "https://github.com/terrakok/Cicerone": " Cicerone is a lightweight library that makes the navigation in an Android app easy."
+  {
+    "name": "tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "description": "Computation using data flow graphs for scalable machine learning"
   },
-  "22": {
-    "https://github.com/CarGuo/GSYVideoPlayer": "视频播放器，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频本身自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，直接添加控件为封面，列表全屏动画，列表小窗口支持拖动，5.0的过场效果，其他一些小动画效果。简书:"
+  {
+    "name": "Crescento",
+    "url": "https://github.com/developer-shivam/Crescento",
+    "description": "Add curve at bottom of image views and relative layouts."
   },
-  "23": {
-    "https://github.com/threepointone/markdown-in-js": "inline markdown for react/jsx"
+  {
+    "name": "superset",
+    "url": "https://github.com/airbnb/superset",
+    "description": "Superset is a data exploration platform designed to be visual, intuitive, and interactive"
   },
-  "24": {
-    "https://github.com/vuejs/vue": "Simple yet powerful library for building modern web interfaces."
+  {
+    "name": "LolliPin",
+    "url": "https://github.com/OrangeGangsters/LolliPin",
+    "description": "A Material design Android pincode library. Supports Fingerprint."
   }
-}
+]
 
 {% endvimhl %}
 
