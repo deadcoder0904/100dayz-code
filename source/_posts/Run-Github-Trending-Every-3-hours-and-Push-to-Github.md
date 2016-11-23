@@ -23,32 +23,40 @@ date: 2016-11-11
 
 ## The syntax is:
 
-```
-1 2 3 4 5 /path/to/command arg1 arg2
-OR
 
-1 2 3 4 5 /root/email.sh
-Where,
+### 1 2 3 4 5 /path/to/command arg1 arg2 
+						
+###						OR 
 
-1: Minute (0-59)
-2: Hours (0-23)
-3: Day (0-31)
-4: Month (0-12 [12 == December])
-5: Day of the week(0-7 [7 or 0 == sunday])
-/path/to/command – Script or command name to schedule
-Easy to remember format:
+### 1 2 3 4 5 /root/email.sh
 
-* * * * * command to be executed
-- - - - -
-| | | | |
-| | | | ----- Day of week (0 - 7) (Sunday=0 or 7)
-| | | ------- Month (1 - 12)
-| | --------- Day of month (1 - 31)
-| ----------- Hour (0 - 23)
-------------- Minute (0 - 59)
-```
+#### Where,
 
-# Here's my `runGithubTrending` script
+### 1: Minute (0-59)
+
+### 2: Hours (0-23)
+
+### 3: Day (0-31)
+
+### 4: Month (0-12 [12 == December])
+
+### 5: Day of the week(0-7 [7 or 0 == sunday])
+
+### /path/to/command – Script or command name to schedule
+
+# *Easy to remember format:*
+
+# * * * * * command to be executed
+# - - - - -
+# | | | | |
+# | | | | ----- Day of week (0 - 7) (Sunday=0 or 7)
+# | | | ------- Month (1 - 12)
+# | | --------- Day of month (1 - 31)
+# | ----------- Hour (0 - 23)
+# ------------- Minute (0 - 59)
+
+
+### Here's my **runGithubTrending** script
 
 {% vimhl bash true %}
 $ cd 'full/path/to/github-trending'
@@ -58,7 +66,7 @@ $ git commit -m "Update"
 $ git push origin master
 {% endvimhl %}
 
-# So, here's how we can `runGithubTrending` script every 3 hours
+### So, here's how we can **runGithubTrending** script every 3 hours using Cron
 
 {% vimhl bash true %}
 $ crontab -l | { cat; echo "0 */3 * * * runGithubTrending"; } | crontab -
