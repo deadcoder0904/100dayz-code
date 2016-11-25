@@ -17,7 +17,7 @@ All my code for the next 100 dayz will be put up on [my Github account](https://
 
 Welcome into the world of [Hexo](https://hexo.io/)! 
 
-Hexo is a static site generator written in Node JS, the language of my choice :wink:. 
+Hexo is a static site generator written in Node JS, the language of my choice 😉. 
 
 I had 3 options to choose from 
 (1) **Jekyll**, which uses Ruby Gems, is slow as compared to other 2 options. 
