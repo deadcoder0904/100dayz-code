@@ -19,7 +19,7 @@ It gives all the Emoji's supported by Github. It uses Github API. It is my secon
 
 ### (1) Emoji List
 
-![Github Emojis](http://imgur.com/CFr7bf5.png)
+![Github Emojis](http://imgur.com/HofwIkj.png)
 
 ## Usage
 
