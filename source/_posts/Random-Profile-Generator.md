@@ -15,6 +15,8 @@ It gives Random Name, Age, Gender, Birthdate of as many persons as u want.
 
 ### [It uses the JSON API which can be found here](https://github.com/thm/uinames/).
 
+### [The code used for this application can be found here](https://github.com/deadcoder0904/random-names/).
+
 # Screenshot
 
 ![Random Names](http://imgur.com/bTHzBao.png)
