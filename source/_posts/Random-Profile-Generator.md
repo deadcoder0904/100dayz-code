@@ -9,6 +9,10 @@ date: 2016-11-13
 
 #### Today I created Random Profile Generator.
 
+### [The live application can be found here](https://deadcoder0904.github.io/random-names/).
+
+It gives Random Name, Age, Gender, Birthdate of as many persons as u want.
+
 ### [It uses the JSON API which can be found here](https://github.com/thm/uinames/).
 
 # Screenshot
