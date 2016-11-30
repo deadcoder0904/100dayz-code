@@ -43,7 +43,7 @@ $ yarn start
 
 # Screenshot
 
-![Awesome Series](http://imgur.com/oNT3Nht.png)
+![Awesome Series](http://imgur.com/wCDMQ7K.png)
 
 # [Code](https://github.com/deadcoder0904/favourite-series/)
 
