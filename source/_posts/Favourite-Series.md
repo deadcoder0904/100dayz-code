@@ -34,7 +34,7 @@ $ yarn
 # (4) Build the Application
 
 {% vimhl bash true %}
-$ yarn build
+$ yarn start
 {% endvimhl %}
 
 # (5) Open `index.html` in your favourite browser
