@@ -43,7 +43,7 @@ $ yarn start
 
 # Screenshot
 
-![Awesome Movies](http://imgur.com/NJrPhmI.png)
+![Awesome Movies](http://imgur.com/Wqq9PGZ.png)
 
 # [Code](https://github.com/deadcoder0904/favourite-movies/)
 
