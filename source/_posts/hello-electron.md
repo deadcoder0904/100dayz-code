@@ -23,26 +23,26 @@ To run this app, follow these steps -
 
 # (1) Clone this repo
 
-{% vimhl bash true %}
+```bash
 $ git clone git@github.com:deadcoder0904/hello-electron.git
-{% endvimhl %}
+```
 
 # (2) Go into the directory
 
-{% vimhl bash true %}
+```bash
 $ cd hello-electron
-{% endvimhl %}
+```
 
 # (3) Install all the Dependencies
 
-{% vimhl bash true %}
+```bash
 $ yarn
-{% endvimhl %}
+```
 
 # (4) Start the Application
 
-{% vimhl bash true %}
+```bash
 $ yarn start
-{% endvimhl %}
+```
 
 ### Till the next time 👻

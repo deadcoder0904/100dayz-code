@@ -15,29 +15,28 @@ date: 2016-11-03
 
 ![Markdown Preview](http://imgur.com/mm7QD3c.png)
 
-### I used Electron Packager to ship it, I currently use only Linux so I've done shipping for that only
+I've used Electron Packager to ship it, I currently use only Linux so I've done shipping for that only
 
 # (1) Firstly Package it for the Current OS ( Mine is Ubuntu Gnome 16.04 )
 
-{% vimhl bash true %}
+```bash
 $ electron-packager --prune . MyApp
-{% endvimhl %}
-
+```
 
 ## Note : `prune` flag will package it without `node_modules` folder
 
 # (2) Then I compressed the source code into 1 file using a package called [Asar](https://github.com/electron/asar)
 
 
-{% vimhl bash true %}
+```bash
 $ asar pack MyApp-linux-x64/resources/app MyApp-linux-x64/resources/app.asar
-{% endvimhl %}
+```
 
 # (3) Then I deleted the original source code folder
 
-{% vimhl bash true %}
+```bash
 $ rm -rf MyApp-linux-x64/resources/app
-{% endvimhl %}
+```
 
 # (4) Then I can start the Application by simply Double Clicking It
 
@@ -45,9 +44,9 @@ $ rm -rf MyApp-linux-x64/resources/app
 
 ## Note : If u want to Package Application to Windows, copy & paste the below code & follow from `step 2`
 
-{% vimhl bash true %}
+```bash
 $ electron-packager . MD-PREVIEW --platform=win32 --arch=x64 --version=1.4.7
-{% endvimhl %}
+```
 
 ## Sometimes it gives EACCES error, so for a workaround download Electron Version 1.4.7 from the official website & copy the `.zip` file & paste it into `~/.electron` directory & it'll work like a charm.
 

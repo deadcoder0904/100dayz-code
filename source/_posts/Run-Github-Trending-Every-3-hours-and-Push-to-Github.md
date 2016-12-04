@@ -58,19 +58,19 @@ date: 2016-11-11
 
 ### Here's my **runGithubTrending** script
 
-{% vimhl bash true %}
+```bash
 $ cd 'full/path/to/github-trending'
 $ yarn start
 $ git add -A
 $ git commit -m "Update"
 $ git push origin master
-{% endvimhl %}
+```
 
 ### So, here's how we can **runGithubTrending** script every 3 hours using Cron
 
-{% vimhl bash true %}
+```bash
 $ crontab -l | { cat; echo "0 */3 * * * runGithubTrending"; } | crontab -
-{% endvimhl %}
+```
 
 
 ### Till the next time 👻

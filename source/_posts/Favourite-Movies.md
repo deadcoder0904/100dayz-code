@@ -9,33 +9,35 @@ date: 2016-11-16
 
 #### Today I created my Favourite Movies Site. I have used [OMDB API](https://omdbapi.com/) to get all the data about Movies. 
 
-## I've also created simple ES7 compatible Boilerplate,to `require` files & to use various new ES7 methods, which can be found [here](https://github.com/deadcoder0904/template-scripts/tree/master/HTML5-CSS3-Jquery-Tachyons-ES7/).
+## ES7 Boilerplate 
+
+I've also created simple ES7 compatible Boilerplate,to `require` files & to use various new ES7 methods, which can be found [here](https://github.com/deadcoder0904/template-scripts/tree/master/HTML5-CSS3-Jquery-Tachyons-ES7/).
 
 To run this app, follow these steps -
 
 # (1) Clone this repo
 
-{% vimhl bash true %}
+```bash
 $ git clone git@github.com:deadcoder0904/favourite-movies.git
-{% endvimhl %}
+```
 
 # (2) Go into the directory
 
-{% vimhl bash true %}
+```bash
 $ cd favourite-movies
-{% endvimhl %}
+```
 
 # (3) Install all the Dependencies
 
-{% vimhl bash true %}
+```bash
 $ yarn
-{% endvimhl %}
+```
 
 # (4) Build the Application
 
-{% vimhl bash true %}
+```bash
 $ yarn start
-{% endvimhl %}
+```
 
 # (5) Open `index.html` in your favourite browser
 

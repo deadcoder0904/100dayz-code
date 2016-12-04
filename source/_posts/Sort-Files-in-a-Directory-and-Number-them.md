@@ -13,13 +13,18 @@ date: 2016-11-10
 
 #### Firstly, I'll import all the modules I need, i.e, `os` module & `shutil` module
 
-## `os` module to change directories, get files in the directory & to get current working directory
 
-## `sh` module to copy file from one directory to another directory
+## `os` module
+
+`os` module to change directories, get files in the directory & to get current working directory
+
+## `sh` module
+
+`sh` module to copy file from one directory to another directory
 
 # Following is the Code with Explanation above each line
 
-{% vimhl python true %}
+```python
 # Import `os` & `shutil` module
 import os, shutil
 
@@ -58,7 +63,7 @@ for filename in files:
 print "Copied all files to 'sorted' directory"
 # End of Program 
 
-{% endvimhl %}
+```
 
 # I wish I would've done this before as it would've helped me in my Previous Semesters. Hope it helps u.
 

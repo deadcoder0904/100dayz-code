@@ -35,21 +35,21 @@ To run this app, follow these steps -
 
 # (1) Clone this repo
 
-{% vimhl bash true %}
+```bash
 $ git clone git@github.com:deadcoder0904/github-user-public-gists.git
-{% endvimhl %}
+```
 
 # (2) Go into the directory
 
-{% vimhl bash true %}
+```bash
 $ cd github-user-public-gists
-{% endvimhl %}
+```
 
 # (3) Open `index.html`
 
-{% vimhl bash true %}
+```bash
 $ google-chrome index.html
-{% endvimhl %}
+```
 
 [Final Application Here](https://github.com/deadcoder0904/github-user-public-gists)
 

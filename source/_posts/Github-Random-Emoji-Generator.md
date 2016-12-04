@@ -11,12 +11,14 @@ date: 2016-11-07
 
 ### [The npm package can be found here](https://npm.im/random-github-emoji/).
 
+## RANDOM `EMOJI.JSON` FILE
+
 It gives all the Emoji's supported by Github. It uses a Github Emoji's JSON file. The file can be found [here](https://github.com/deadcoder0904/generate-random-github-emoji/blob/master/random.json). 
 
 ## Code
 
 
-{% vimhl js true %}
+```js
 var jsonContent = require("./random.json");
 
 var arr = [];
@@ -34,20 +36,20 @@ var obj = {
 
 console.log(obj);
 
-{% endvimhl %}
+```
 
 ## Install
 
 
-{% vimhl bash true %}
+```bash
 $ npm install --save random-github-emoji
 
-{% endvimhl %}
+```
 
 ## Usage
 
 
-{% vimhl js true %}
+```js
 const random = require('random-github-emoji');
 
 random();
@@ -56,7 +58,7 @@ random();
 random();
 //=> { name: 'hammer_and_pick', emoji: '⚒' }
 
-{% endvimhl %}
+```
 
 [Final Application Code Here](https://github.com/deadcoder0904/generate-random-github-emoji/)
 

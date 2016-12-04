@@ -16,7 +16,7 @@ It gives repo description & the link to the repo.
 
 ## The API is in the following format
 
-{% vimhl js true %}
+```js
 { 
   {
     "name": "cs-video-courses",
@@ -145,7 +145,7 @@ It gives repo description & the link to the repo.
   }
 ]
 
-{% endvimhl %}
+```
 
 This project looks very simple, but it was very tricky because it was my first time using [Nightmare JS](https://nightmarejs.org). Nightmare is a High Level Automation Library made using Electron. It is same as [Phantom JS](http://phantomjs.org/), but it is fast & a little modern.
 
@@ -153,32 +153,32 @@ This project looks very simple, but it was very tricky because it was my first t
 
 # (1) Clone this repo
 
-{% vimhl bash true %}
+```bash
 $ git clone git@github.com:deadcoder0904/github-trending-json-api.git
-{% endvimhl %}
+```
 
 # (2) Go into the directory
 
-{% vimhl bash true %}
+```bash
 $ cd github-trending-json-api
-{% endvimhl %}
+```
 
 # (3) Type `yarn` to install all dependencies
 
-{% vimhl bash true %}
+```bash
 $ yarn
-{% endvimhl %}
+```
 
 # (4) Type `yarn start` to start scraping the web
 
-{% vimhl bash true %}
+```bash
 $ yarn start
-{% endvimhl %}
+```
 
 ### In a minutes time, depending on the speed of your internet, a new file will be created according to today's date in `json` folder.
 
-## Voila, we have scraped the web together. It has many more applications further. We can login to Facebook & Twitter using Nightmare. We can send Automated Emails using Nightmare & many more things....
+# Voila, we have scraped the web together. It has many different applications. Further we can login to Facebook and Twitter using Nightmare. We can send Automated Emails using Nightmare & many more things . . .
 
-###### ⚠ Warning : It scrapes the [Github Trending Site](https://github.com/trending) which means that if the sites layout changes this project won't work
+### ⚠ Warning : It scrapes the [Github Trending Site](https://github.com/trending) which means that if the sites layout changes this project won't work
 
 ### Till the next time 👻
