@@ -11,7 +11,7 @@ date: 2016-11-19
 
 # [Demo](https://deadcoder0904.github.io/http-todo-app/)
 
-> Simple Todo App without any HTTP Requests
+> Simple Todo App with HTTP Requests
 
 # Screenshots
 
