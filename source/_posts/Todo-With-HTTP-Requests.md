@@ -7,9 +7,9 @@ date: 2016-11-19
 
 ### I'm back 💙
 
-#### Today I created a Todo App with server requests to [this API](http://todo-0904.herokuapp.com/).
+#### Today I created a Todo App with server requests to [this custome made API](https://github.com/deadcoder0904/http-todo-app/blob/master/server.js). For a change, I've used promise library [fetch](https://github.com/github/fetch).
 
-# [Demo](https://deadcoder0904.github.io/http-todo-app/)
+# [Demo](https://http-todo-app-0904.herokuapp.com/)
 
 > Simple Todo App with HTTP Requests
 
