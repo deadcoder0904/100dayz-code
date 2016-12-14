@@ -3,7 +3,7 @@ title: Fun with Key Sequence Detection
 date: 2016-11-27
 ---
 
-# DAY 26 👾 
+# DAY 27 👾 
 
 ### I'm back 💙
 
