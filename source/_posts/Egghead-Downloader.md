@@ -24,7 +24,7 @@ python index.py
 #### Enter the full URL like this
 
 ```
-https://egghead.io/courses/build-a-graphql-server?utm_source=drip&utm_medium=email&utm_campaign=nativescript-angular2
+https://egghead.io/courses/build-a-graphql-server
 ```
 
 [Code](https://github.com/deadcoder0904/egghead-videos-download)
