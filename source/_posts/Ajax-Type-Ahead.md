@@ -9,9 +9,9 @@ date: 2016-12-04
 
 #### Today I created Ajax Type Ahead.
 
-# [Demo](https://deadcoder0904.github.io/ajax-type-ahead)
-
 > Search for US Cities 
+
+# [Demo](https://deadcoder0904.github.io/ajax-type-ahead)
 
 # Screenshot
 
