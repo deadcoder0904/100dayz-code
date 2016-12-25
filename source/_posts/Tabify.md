@@ -9,7 +9,7 @@ date: 2016-12-06
 
 #### Today I created Tabify.
 
-> :skull: Simple Tabs using Flexbox :smiley:
+> Simple Tabs using Flexbox
 
 # [Demo](https://deadcoder0904.github.io/tabify)
 
