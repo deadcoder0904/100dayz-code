@@ -9,7 +9,7 @@ date: 2016-12-08
 
 #### Today I created Planets web app.
 
-> :alien: Store Planets Data using Local Storage & Event Delegation :skull:
+> Store Planets Data using Local Storage & Event Delegation
 
 Try refreshing your web browser & the data will persist.
 
