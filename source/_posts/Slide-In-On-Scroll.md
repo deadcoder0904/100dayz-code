@@ -9,7 +9,7 @@ date: 2016-12-12
 
 #### Today I created Slide In On Scroll Effect.
 
-> :alien: Slide In On Scroll Effect made using Transform in CSS3
+> Slide In On Scroll Effect made using Transform in CSS3
 
 # [Demo](https://deadcoder0904.github.io/slide-in-on-scroll)
 
