@@ -9,9 +9,9 @@ date: 2016-12-13
 
 #### Today I created Custom HTML5 Video Player.
 
-> :sparkles: Custom HTML5 video player made using HTML5, CSS3 & VANILLA JS :alien:
+> Custom HTML5 video player made using HTML5, CSS3 & VANILLA JS
 
-Watch the video :stuck_out_tongue_winking_eye: Its way too funny :wink:
+Watch the video 😜 Its way too funny 😉
 
 # [Demo](https://deadcoder0904.github.io/custom-html5-video-player)
 
