@@ -17,6 +17,8 @@ Give Webcam Access to use it. It is deployed on Zeit's NOW.
 
 # [Demo](https://webcam-fun.now.sh/)
 
+Take Snaps & store it in your HDD.
+
 # [Code](https://github.com/deadcoder0904/webcam-fun)
 
 ### Till the next time 👻 
