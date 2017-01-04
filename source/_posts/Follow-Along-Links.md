@@ -17,7 +17,6 @@ date: 2016-12-16
 
 ![follow-along-links](http://imgur.com/ImPmngF.png)
 
-
 # [Code](https://github.com/deadcoder0904/follow-along-links)
 
 ### Till the next time 👻 
