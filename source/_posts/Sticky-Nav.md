@@ -9,7 +9,7 @@ date: 2016-12-18
 
 #### Today I have created  Sticky Nav.
 
-> Stick the Navigation Bar to the top while Scrolling :wink:
+> Stick the Navigation Bar to the top while Scrolling
 
 # [Demo](https://deadcoder0904.github.io/sticky-nav)
 
