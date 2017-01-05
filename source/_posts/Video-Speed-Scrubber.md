@@ -15,7 +15,7 @@ date: 2016-12-20
 
 # Screenshot
 
-![video-speed-scrubber](http://imgur.com/AdW66iz.png)
+![video-speed-scrubber](http://imgur.com/oz9ETfE.png)
 
 # [Code](https://github.com/deadcoder0904/video-speed-scrubber)
 
