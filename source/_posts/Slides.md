@@ -11,7 +11,7 @@ date: 2016-12-24
 
 > Just Another Slide made in HTML5, CSS3 & Plain Ol' Javascript
 
-### Check [official website](https://deadcoder0904.github.io/slides-official-website/) for information on using Slides.
+### [Check official website for information on using Slides](https://deadcoder0904.github.io/slides-official-website/).
 
 ## Current Themes -
 
