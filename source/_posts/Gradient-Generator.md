@@ -1,9 +1,9 @@
 ---
 title: Gradient Generator
-date: 2016-12-25
+date: 2016-12-26
 ---
 
-# DAY 55 👾 
+# DAY 56 👾 
 
 ### I'm back 💙
 
