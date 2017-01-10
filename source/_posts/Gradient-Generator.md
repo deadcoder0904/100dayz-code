@@ -9,7 +9,7 @@ date: 2016-12-26
 
 #### Today I created Awesome Gradient Generator.
 
-> Visualise your Gradients :heart_eyes:
+> Visualise your Gradients
 
 # [Demo](https://deadcoder0904.github.io/gradient-generator)
 
