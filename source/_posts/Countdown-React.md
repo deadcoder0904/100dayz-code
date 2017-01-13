@@ -15,7 +15,7 @@ date: 2016-12-28
 
 # Screenshot
 
-![countdown-react](http://imgur.com/0IsOasQ.png)
+![countdown-react](http://imgur.com/4mdOBop.png)
 
 # [Code](https://github.com/deadcoder0904/hey-yo-react)
 

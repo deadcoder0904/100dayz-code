@@ -15,7 +15,7 @@ date: 2016-12-30
 
 # Screenshot
 
-![md-react](http://imgur.com/VQX4U3e.png)
+![md-react](http://imgur.com/BDmR0MO.png)
 
 # [Code](https://github.com/deadcoder0904/md-react)
 
