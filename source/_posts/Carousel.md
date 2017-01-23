@@ -13,6 +13,10 @@ date: 2017-01-12
 
 # [Demo](https://deadcoder0904.github.io/carousel)
 
+# Screenshot
+
+![carousel](http://imgur.com/xA1wrvS.png)
+
 # [Code](https://github.com/deadcoder0904/carousel)
 
 ### Till the next time 👻 
