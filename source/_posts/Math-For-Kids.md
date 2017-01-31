@@ -15,7 +15,7 @@ date: 2017-01-13
 
 # Screenshot
 
-![math-for-kids](http://imgur.com/U0riSS2.png)
+![math-for-kids](http://imgur.com/lHCzub0.png)
 
 # [Code](https://github.com/deadcoder0904/math-for-kids)
 
