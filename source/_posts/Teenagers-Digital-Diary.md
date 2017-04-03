@@ -9,7 +9,7 @@ date: 2017-01-15
 
 #### Today I created Teenagers Digital Diary using HTML5, CSS3 & JavaScript.
 
-> A digital diary for young teens :heart_eyes: to help them overcome various social pressures they deal with during their teen years :smile:
+> A digital diary for young teens to help them overcome various social pressures they deal with during their teen years
 
 # [Demo](https://deadcoder0904.github.io/teenagers-digital-diary)
 
