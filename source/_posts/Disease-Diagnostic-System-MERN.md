@@ -9,8 +9,6 @@ date: 2017-01-23
 
 #### Today I created Disease Diagnostic System written using React, Node Express, Babel, Webpack in ES6.
 
-# [Demo](https://deadcoder0904.github.io/disease-diagnostic-system-react)
-
 The BACKEND part is well written :heart_eyes: but the FRONTEND of this project sucks in my opinion :joy:
 
 It took me exact 20 hours to complete this project measured here; its too slow :cry: but for a 1st Full Stack MERN Stack I think its great
