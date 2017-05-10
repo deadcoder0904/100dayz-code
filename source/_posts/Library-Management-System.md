@@ -9,7 +9,7 @@ date: 2017-01-27
 
 #### Today I created Library Management System.
 
-> Library Management System using Vue JS & Firebase :heart_eyes:
+> Library Management System using Vue JS & Firebase 
 
 # Screenshot
 
