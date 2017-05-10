@@ -18,6 +18,6 @@ Key Advantages : (support for)
 
 Users can create File, create Folder, write to a File, remove File, remove Folder & show the contents of the File throught GET & POST requests.
 
-# [Code](https://github.com/deadcoder0904/cloud-storage-cli)
+# [Code](https://github.com/deadcoder0904/cloud-storage-api)
 
 ### Till the next time 👻 
